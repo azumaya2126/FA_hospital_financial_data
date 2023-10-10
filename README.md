@@ -1,2 +1,3 @@
 # FA_hospital_financial_data
-2023 First Semester Lecture Report Assignment
+2023前期講義「統計的方法論特殊研究（応用回帰分析）」の最終レポート
+- 国立病院機構の入院患者満足度分析の因子分析
